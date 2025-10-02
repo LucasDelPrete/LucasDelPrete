@@ -1,13 +1,14 @@
 # 👋 Hi, I’m Lucas Del Prete
 
 🎓 Final-year **Computer Engineering student** @ ISEP  
-💻 Aspiring **Software Engineer | Systems Administrator | Cybersecurity Enthusiast**
+💻 Aspiring **Software Engineer | Systems Administrator | Cybersecurity Enthusiast**  
+🎯 Planning to pursue a **Master’s in Cybersecurity and Systems Administration** after graduation  
 
 ---
 
 ## 🔍 About Me
 I’m passionate about building resilient software, automating systems, and securing infrastructure.  
-With a solid academic foundation and a hunger to learn, I'm eager to contribute to open-source projects or real-world challenges that push me to grow.
+With a solid academic foundation and a hunger to learn, I'm eager to contribute to open-source projects or real-world challenges that push me to grow.  
 
 ---
 
@@ -33,3 +34,4 @@ With a solid academic foundation and a hunger to learn, I'm eager to contribute 
 
 ## 📫 Let’s Connect
 I’m open to feedback, collaboration requests, or mentorship opportunities — feel free to drop me a message!  
+- **[LinkedIn](https://www.linkedin.com/in/lucas-del-prete)**
