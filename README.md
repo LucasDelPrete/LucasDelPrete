@@ -8,7 +8,7 @@ Final-year Computer Engineering student at ISEP with hands-on internship experie
 - Strong fundamentals in **algorithms, data structures, and software engineering**  
 - Experience (academic & personal) in **backend development, scripting, and automation**  
 - Knowledge of **networks, security principles, and system architecture**  
-- A **proactive mindset** — always seeking to learn new tools, frameworks, and best practices  
+- A **proactive mindset**, always seeking to learn new tools, frameworks, and best practices  
 - Strong **collaboration skills** and a drive to solve complex problems  
 
 ---
